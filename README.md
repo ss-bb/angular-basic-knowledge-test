@@ -15,7 +15,7 @@
 14: angular.module <br />
 15 : myFilter:’arg’<br />
 16 : 1 + 2 = 3<br /> 
-17:<div ng-controller=”myController”> {{ myVar }} </div><br />
+17:`<div ng-controller=”myController”> {{ myVar }} </div>`<br />
 18:input#myFirstValue multipliée par la valeur input#mySecondValue<br />
 19:À afficher des messages selon les règles de localisation en-US.<br />
 20:a ng-href<br />
