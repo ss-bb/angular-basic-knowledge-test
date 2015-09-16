@@ -9,7 +9,7 @@
 8 : $http<br />
 9 : Aucune -> NgRoute<br />
 10: when(‘/student’,...<br />
-11:<code> <div ng-click=’myMethod()’> </div></code> <br />
+11:`<div ng-click=’myMethod()’></div>` <br />
 12: aucune différence fonctionnelle <br />
 13:  | filter1 | filter2 <br />
 14: angular.module <br />
