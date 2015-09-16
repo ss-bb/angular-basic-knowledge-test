@@ -7,7 +7,7 @@
 6 : contenant le paramètre<br />
 7 : orderBy<br />
 8 : $http<br />
-9 : Aucune -> NgRoute<br />
+9 : Aucune => NgRoute<br />
 10: when(‘/student’,...<br />
 11:`<div ng-click=’myMethod()’></div>` <br />
 12: aucune différence fonctionnelle <br />
